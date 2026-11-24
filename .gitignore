@@ -1,0 +1,12 @@
+.venv/
+__pycache__/
+# course materials, not ours to share
+Final_Project_CMPSCI_589_Fall2026.pdf
+Final_Project_CMPSCI_589_Fall2026_Supporting_Files/
+# raw UCI download (converted copy is code/data/cmc.csv)
+extra_dataset/
+# latex build files
+*.aux
+*.log
+*.out
+*.synctex.gz
